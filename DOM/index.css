@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+/* root css edit */
+#root {
+  background-color: rgb(242, 180, 180);
+  padding: 10px;
+}
+
+h1 {
+  font: size 24px;
+}
+
+/* unordered list */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
